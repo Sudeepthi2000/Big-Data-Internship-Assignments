@@ -1,0 +1,14 @@
+Q1
+Create 4 users tushar, nana, maulik, jaya
+Set password expiry to 90 days
+Create marketing group, add tushar and nana
+Create IT group, add maulik and jaya
+Create capgemini group add all members
+Every user gets home directory
+I/O redirection to set passwords
+
+Q2
+New user with userid 2001
+set shell as sh shell
+add user to capgemini group
+(All in one cmd)
