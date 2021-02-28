@@ -1,1 +1,1 @@
-# Big-Data-Internship-Assignments
+# Linux-Assignments-Sudeepthi
