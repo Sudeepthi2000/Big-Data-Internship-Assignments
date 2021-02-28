@@ -1,0 +1,6 @@
+Create 3 folders in /temp/data, bolly, holly, tolly
+copy /etc files that start with a,b,c, or d
+move files starting with a or b to bolly
+c,d -> holly
+size greater than 40 MB -> tolly
+create tar file for each folder in /Desktop/MoviesData
