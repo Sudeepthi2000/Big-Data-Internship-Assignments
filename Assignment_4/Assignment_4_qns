@@ -1,0 +1,6 @@
+Q1 change umask value permanently to 0022 and change back to default
+Q2 create files by root and see that other users and group can't access them 
+   files created by other users can be accessed by the group owners
+Q3 Create capgemini directory, only members of the group BigDataEmployee can access files insde this directory
+   Users cant access or write files of other users in this directory
+   Manager can access all the files and remove files
