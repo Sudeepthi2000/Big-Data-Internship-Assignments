@@ -1,0 +1,6 @@
+Hadoop HDFS
+use count command
+use df,du commands
+delete file without sending to trash
+set replication factor of file to 3 and view
+create empty file in hadoop environment
