@@ -1,1 +1,3 @@
-# Linux-Assignments-Sudeepthi
+# Assignments-Sudeepthi
+Linux Assignmets
+Hadoop Assignments
